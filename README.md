@@ -20,10 +20,13 @@
 - 🔧 &nbsp; Visual Studio code | PyCharm | Eclipse | Git | Jupyter Notebook | MS Office 
 - 🖥 &nbsp; Figma 
 <br>
-https://leetcode-stat-api.herokuapp.com/panks123}/
+<div>
+  <a href="https://leetcode.com/panks123/" target="_blank"><img src="https://leetcode-stat-api.herokuapp.com/panks123/theme=dark" /></a>
+</div>
+  
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=panks123&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=panks123&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Pankaj's Github Stats">
 
 </br>
 
