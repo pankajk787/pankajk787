@@ -41,4 +41,4 @@
 &nbsp; <a href="mailto:pankajkumarhzb787@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
-⭐️ From [panks123](https://github.com/panks123)
+⭐️ From [Pankaj Kumar](https://github.com/panks123)
