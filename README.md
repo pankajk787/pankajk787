@@ -20,9 +20,9 @@
 - 🔧 &nbsp; Visual Studio code | PyCharm | Eclipse | Git | Jupyter Notebook | MS Office 
 - 🖥 &nbsp; Figma 
 <br>
-<div>
+<!-- <div>
   <a href="https://leetcode.com/panks123/" target="_blank"><img src="https://leetcode-stat-api.herokuapp.com/panks123/theme=dark" /></a>
-</div>
+</div> -->
   
 <br>
 
