@@ -9,7 +9,7 @@
 - 💼 &nbsp; MERN Stack Developer.
 - 🌱 &nbsp; Enthusiast in Data Analysis and Data Science .
 - ✍️ &nbsp; Trying out latest design trends as hobbies/side hustles.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+- ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress. 
 - ✍️ &nbsp; I believe that I will fail only if I Quit. But I will never Quit😎
 
 <h3>🛠 Tech Stack</h3>
