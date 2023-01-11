@@ -3,8 +3,9 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Full Stack Web Development
+- 🔭 &nbsp; I’m a Full Stack Web Developer
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎯 &nbsp; Always has desire learn large scale applications, It's scalability, performance optizations, load balancing etc.
 - 🎓 &nbsp; Deep diving into computer science subjects and Mathematics.
 - 💼 &nbsp; MERN Stack Developer.
 - 🌱 &nbsp; Enthusiast in Data Analysis and Data Science .
