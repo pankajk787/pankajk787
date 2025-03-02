@@ -16,7 +16,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; JavaScript | Typescript | Python | C | C++  
-- 🌐 &nbsp; React.Js | Node.Js | HTML | CSS | JavaScript | Bootstrap 
+- 🌐 &nbsp; React.Js | Node.Js | JavaScript | HTML | CSS | Tailwind 
 - 🛢 &nbsp; MySQL | MongoDB 
 - 🔧 &nbsp; Visual Studio code | PyCharm | Eclipse | Git | Jupyter Notebook | MS Office 
 - 🖥 &nbsp; Figma 
