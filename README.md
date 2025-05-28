@@ -33,6 +33,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pankajk787&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/pankajk787/github-readme-stats)
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/pankajk787?theme=wtf)
+
 
 <h3> 🤝🏻 Connect with Me </h3>
 
